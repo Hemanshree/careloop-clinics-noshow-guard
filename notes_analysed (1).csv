@@ -1,0 +1,31 @@
+note_id,appointment_id,note_text,reason_category,suggested_action,analysis_method,note_available
+N001,A0872,Patient said she never got any reminder message and completely forgot about the visit. Wants to rebook for next week.,Reminder issue,Send appointment reminders,Rule-based keyword analysis (not Gemini AI),True
+N002,A0897,Lives far from the clinic and could not find any transport that morning. Says the clinic is too far for a routine check-up.,Transport or distance,Explore transport support,Rule-based keyword analysis (not Gemini AI),True
+N003,A0526,Patient felt the consultation fee was too high this month and decided to skip. Asked if there is any discount for follow-ups.,Financial concern,Offer affordable follow-up options,Rule-based keyword analysis (not Gemini AI),True
+N004,A0926,,Missing note,No note available,Rule-based keyword analysis (not Gemini AI),False
+N005,A0534,"Had high fever and body ache on the day, stayed in bed. Will visit once recovered.",Illness,Offer appointment rescheduling,Rule-based keyword analysis (not Gemini AI),True
+N006,A0507,"Manager called an urgent meeting at the office, could not leave work. Asked for an evening slot next time.",Scheduling conflict,Offer flexible appointment timings,Rule-based keyword analysis (not Gemini AI),True
+N007,A0333,"Bhool gaya, SMS nahi aaya tha. Dobara booking karni hai.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N008,A0222,"City bus strike that day, no auto available near the colony. Distance is a big problem for him.",Transport or distance,Explore transport support,Rule-based keyword analysis (not Gemini AI),True
+N009,A0977,"Phone was switched off, could not reach the patient after three attempts.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N010,A0596,Had a shift change at the factory and could not take leave. Prefers Saturday appointments.,Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N011,A0764,Was unwell with stomach infection on that day.,Illness,Offer appointment rescheduling,Rule-based keyword analysis (not Gemini AI),True
+N012,A0121,"No transport available from his village, had to skip.",Transport or distance,Explore transport support,Rule-based keyword analysis (not Gemini AI),True
+N013,A0135,Could not afford the fee this month.,Financial concern,Offer affordable follow-up options,Rule-based keyword analysis (not Gemini AI),True
+N014,A0850,Boss refused leave so the visit was missed.,Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N015,A0568,"Forgot the appointment completely, no reminder was sent.",Reminder issue,Send appointment reminders,Rule-based keyword analysis (not Gemini AI),True
+N016,A0818,Was unwell with stomach infection on that day.,Illness,Offer appointment rescheduling,Rule-based keyword analysis (not Gemini AI),True
+N017,A0815,"Office deadline, could not take time off.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N018,A0016,Boss refused leave so the visit was missed.,Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N019,A0074,"Did not receive any SMS or call reminder, lost track of the date.",Reminder issue,Send appointment reminders,Rule-based keyword analysis (not Gemini AI),True
+N020,A0335,"Travel takes over two hours each way, so he did not come.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N021,A0824,"Forgot the appointment completely, no reminder was sent.",Reminder issue,Send appointment reminders,Rule-based keyword analysis (not Gemini AI),True
+N022,A0423,"Money problem this week, will come when salary arrives.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N023,A0593,Clinic is too far from home and the bus was very late.,Transport or distance,Explore transport support,Rule-based keyword analysis (not Gemini AI),True
+N024,A0374,"Wrong number on record, call could not be completed.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N025,A0728,"Did not receive any SMS or call reminder, lost track of the date.",Reminder issue,Send appointment reminders,Rule-based keyword analysis (not Gemini AI),True
+N026,A0863,Had a family emergency and had to travel out of town.,Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N027,A0721,"Child fell ill suddenly, went to the hospital instead.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N028,A0324,"Wrong number on record, call could not be completed.",Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
+N029,A0585,"No transport available from his village, had to skip.",Transport or distance,Explore transport support,Rule-based keyword analysis (not Gemini AI),True
+N030,A0086,Says the booking slipped her mind because nobody reminded her.,Other,Review note and contact patient if needed,Rule-based keyword analysis (not Gemini AI),True
